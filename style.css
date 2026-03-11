@@ -20,3 +20,5 @@
     .card-desc { font-size: 0.85rem; font-weight: 300; color: #6b8fa8; line-height: 1.7; margin-bottom: 1rem; }
       .card-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.4rem; }
     .card-rating { font-size: 0.82rem; color: #7aadd8; }
+       .card-address { font-size: 0.72rem; color: #a0bcd4; }
+    .card-hours { font-size: 0.72rem; color: #b0c8d8; margin-top: 0.5rem; }
